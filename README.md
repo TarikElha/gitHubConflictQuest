@@ -1,4 +1,4 @@
-# gitHubConflictQuest
+REMOTE
 Git/GitHub 5 : Merge &amp; Conflits
 
 I am 
